@@ -1,0 +1,72 @@
+Name SkyComm G80
+ShortName dwSkyComm
+//The ammo this gun uses (shortName)
+Ammo dwSkyCommAmmo
+Icon SkyCommG80
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 55
+Recoil 5
+Damage 12
+Accuracy 4
+//NumBullets 1
+BulletSpeed 10.0
+ShootDelay 5
+ShootSound _SkylighterFire
+ReloadSound _SkyCommReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+CanShootUnderwater false
+
+//Show Information
+Description SkyMare Corporation
+ShowAttachments false
+
+ShowDamage true
+ShowAccuracy true
+ShowRecoil true
+ShowReloadTime true
+ShowMode true
+ShowFireRate true
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.SkyCommG80
+Texture SkyCommG80_Standard
+
+//Attachment Settings
+AllowAttachments dwSmcThreatSight dwSmcCompactHoloSight dwSmcReflexSight dwSmcRedDotSight dwSmcMilspecSight dwSmcSharedSuppressor dwSmcSharedMuzzleBrake dwSmcSolidStock dwSmcSMTPStock dwGenSingleFire  dwGenMeleeStock dwGenBarrelRifling dwGenReinforcedBarrel dwGenCleanedReceiver dwGenImprovedReceiver dwGenHardenedRecoilBolt 
+
+NumGenericAttachmentSlots 3
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments false
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob MPAR_iconContractor MPAR_Contractor gray 1 brown 1
+
+
+//Owner DerpiWolf
+//Show in description
+ShowReloadTime true
+ShowAccuracy true
+ShowDamage true
+ShowRecoil true

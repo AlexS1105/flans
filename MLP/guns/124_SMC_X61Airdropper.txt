@@ -1,0 +1,62 @@
+Name X61 Airdropper
+ShortName dwAirdropper
+//The ammo this gun uses (shortName)
+Ammo dwAirdropperAmmo
+Ammo dwAirdropperShockAmmo
+Icon Airdropper
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 90
+Recoil 10
+Damage 14
+Accuracy 1
+//NumBullets 1
+BulletSpeed 12.0
+ShootDelay 21
+ShootSound _AirdropperFire
+ReloadSound _AirdropperReload
+Mode SemiAuto
+Scope nightstickScopeOverlay
+ZoomLevel 2.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.Airdropper
+Texture X61Airdropper_Standard
+
+//Attachment Settings
+AllowAttachments dwSmcFlipSight dwSmcMilspecSight dwSmcNightScope dwSmcSolidStock dwSightDetachment dwSmcSpeedMod dwSmcSharedMuzzleBrake dwSmcSharedSuppressor dwSmcThreatSight dwGenMeleeStock dwGenHardenedRecoilBolt  dwGenBarrelRifling dwGenReinforcedBarrel dwGenAdjustedRecoilSpring dwGenCleanedReceiver dwGenImprovedReceiver
+
+NumGenericAttachmentSlots 4
+AllowBarrelAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments true
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob CloudPuncher_iconBlackout CloudPuncherA3_Blackout white 1 black 1
+
+
+//Owner DerpiWolf
+
+Description SkyMare Corporation
+//Show in description
+ShowReloadTime true
+ShowAccuracy true
+ShowDamage true
+ShowRecoil true

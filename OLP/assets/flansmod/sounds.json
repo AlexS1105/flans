@@ -1,0 +1,368 @@
+{
+	"arc_opressor_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:arc_opressor_reload"
+		]
+	},
+	"arc_opressor_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:arc_opressor_shot"
+		]
+	},
+	"atol_rifle_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:atol_rifle_reload"
+		]
+	},
+	"atol_rifle_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:atol_rifle_shot"
+		]
+	},
+	"atol_smasher_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:atol_smasher_reload"
+		]
+	},
+	"atol_smasher_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:atol_smasher_shot"
+		]
+	},
+	"boom_rifle_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:boom_rifle_reload"
+		]
+	},
+	"boom_rifle_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:boom_rifle_shot"
+		]
+	},
+	"briar_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:briar_reload"
+		]
+	},
+	"briar_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:briar_shot"
+		]
+	},
+	"clandor_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:clandor_reload"
+		]
+	},
+	"clandor_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:clandor_shot"
+		]
+	},
+	"ellasian_laser_rifle_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:ellasian_laser_rifle_reload"
+		]
+	},
+	"ellasian_laser_rifle_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:ellasian_laser_rifle_shot"
+		]
+	},
+	"emi_radiant_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:emi_radiant_reload"
+		]
+	},
+	"emi_radiant_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:emi_radiant_shot"
+		]
+	},
+	"gauss_gun_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:gauss_gun_reload"
+		]
+	},
+	"gauss_gun_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:gauss_gun_shot"
+		]
+	},
+	"gizkogun_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:gizkogun_reload"
+		]
+	},
+	"gizkogun_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:gizkogun_shot"
+		]
+	},
+	"goplon_repeater_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:goplon_repeater_reload"
+		]
+	},
+	"goplon_repeater_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:goplon_repeater_shot"
+		]
+	},
+	"handgun_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:handgun_reload"
+		]
+	},
+	"handgun_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:handgun_shot"
+		]
+	},
+	"hand_cannon_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:hand_cannon_reload"
+		]
+	},
+	"hand_cannon_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:hand_cannon_shot"
+		]
+	},
+	"lasergun_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:lasergun_reload"
+		]
+	},
+	"lasergun_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:lasergun_shot"
+		]
+	},
+	"laser_pistol_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:laser_pistol_reload"
+		]
+	},
+	"laser_pistol_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:laser_pistol_shot"
+		]
+	},
+	"liur_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:liur_reload"
+		]
+	},
+	"liur_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:liur_shot"
+		]
+	},
+	"melter_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:melter_reload"
+		]
+	},
+	"melter_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:melter_shot"
+		]
+	},
+	"menala_destroyer_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:menala_destroyer_reload"
+		]
+	},
+	"menala_destroyer_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:menala_destroyer_shot"
+		]
+	},
+	"menala_destroyer_shot_2": {
+		"category": "player",
+		"sounds": [
+			"flansmod:menala_destroyer_shot_2"
+		]
+	},
+	"needlegun_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:needlegun_reload"
+		]
+	},
+	"needlegun_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:needlegun_shot"
+		]
+	},
+	"parhelium_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:parhelium_reload"
+		]
+	},
+	"parhelium_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:parhelium_shot"
+		]
+	},
+	"pocket_defender_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:pocket_defender_reload"
+		]
+	},
+	"pocket_defender_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:pocket_defender_shot"
+		]
+	},
+	"pocket_dissonator_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:pocket_dissonator_reload"
+		]
+	},
+	"pocket_dissonator_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:pocket_dissonator_shot"
+		]
+	},
+	"psionik_suppressor": {
+		"category": "player",
+		"sounds": [
+			"flansmod:psionik_suppressor"
+		]
+	},
+	"psionik_suppressor_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:psionik_suppressor_reload"
+		]
+	},
+	"rusty_queen_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:rusty_queen_reload"
+		]
+	},
+	"rusty_queen_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:rusty_queen_shot"
+		]
+	},
+	"shooter_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:shooter_reload"
+		]
+	},
+	"shooter_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:shooter_shot"
+		]
+	},
+	"specialist_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:specialist_reload"
+		]
+	},
+	"specialist_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:specialist_shot"
+		]
+	},
+	"supressor_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:supressor_reload"
+		]
+	},
+	"supressor_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:supressor_shot"
+		]
+	},
+	"thermal_spitter_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:thermal_spitter_reload"
+		]
+	},
+	"thermal_spitter_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:thermal_spitter_shot"
+		]
+	},
+	"thunder_spear_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:thunder_spear_reload"
+		]
+	},
+	"thunder_spear_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:thunder_spear_shot"
+		]
+	},
+	"vaccum_reaper_shot": {
+		"category": "player",
+		"sounds": [
+			"flansmod:vaccum_reaper_shot"
+		]
+	},
+	"vacuum_reaper_reload": {
+		"category": "player",
+		"sounds": [
+			"flansmod:vacuum_reaper_reload"
+		]
+	}
+}

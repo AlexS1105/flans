@@ -1,0 +1,61 @@
+Name Ironhoof SG
+ShortName dwIronhoof
+//The ammo this gun uses (shortName)
+Ammo dwIronhoofAmmo
+Ammo dwIronhoofShockAmmo
+Icon Ironhoof
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 90
+Recoil 10
+Damage 4
+Accuracy 22
+LoadIntoGun 1
+NumBullets 5
+BulletSpeed 7.0
+ShootDelay 5
+ShootSound _SF2012Fire
+ReloadSound _IronhoofReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.Ironhoof
+Texture Ironhoof_Standard
+
+//Attachment Settings
+AllowAttachments dwSmcSolidStock dwSmcPipeStock dwGenMeleeStock dwGenHardenedRecoilBolt dwGenBarrelRifling dwGenAdjustedRecoilSpring dwGenReinforcedBarrel dwGenCleanedReceiver dwGenImprovedReceiver 
+
+NumGenericAttachmentSlots 3
+AllowBarrelAttachments false
+AllowScopeAttachments false
+AllowStockAttachments true
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob Wolfstedt_iconDigital WolfstedtCompact_Digital blue 1 gray 1 silver 1
+
+
+//Owner DerpiWolf
+
+Description SkyMare Corporation
+//Show in description
+ShowReloadTime true
+ShowAccuracy true
+ShowDamage true
+ShowRecoil true

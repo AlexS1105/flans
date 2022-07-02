@@ -1,0 +1,61 @@
+Name Skylighter AEC
+ShortName dwSkylighterAEC
+//The ammo this gun uses (shortName)
+Ammo dwSkylighterAECAmmo
+Icon SkylighterAEC
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 90
+Recoil 3
+Damage 6
+Accuracy 4
+//NumBullets 2
+BulletSpeed 12.0
+ShootDelay 8
+ShootSound _SkylighterFire
+ReloadSound _IronhoofReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.SkylighterAEC
+Texture SkylighterAEC_Standard
+
+//Attachment Settings
+AllowAttachments dwSmcThreatSight dwSmcCompactHoloSight dwSmcRedDotSight dwSmcSolidStock dwSmcSMTPStock dwGenFirearmTraining dwGenCleanedReceiver dwGenImprovedReceiver dwGenAugmentedReceiver dwGenSingleFire 
+
+NumGenericAttachmentSlots 2
+AllowBarrelAttachments false
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowGripAttachments false
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob SkyChaser_iconRedux SkyChaser_Redux blue 1 gray 1 silver 1
+
+
+//Owner DerpiWolf
+
+Description SkyMare Corporation
+//Show in description
+ShowReloadTime true
+ShowAccuracy true
+ShowDamage true
+ShowRecoil true

@@ -1,0 +1,62 @@
+Name KPSS-12
+ShortName dwKpss12
+//The ammo this gun uses (shortName)
+Ammo dwShotgunPelletAmmo
+Ammo dwShotgunPoisonAmmo
+Ammo dwShotgunIncendiaryAmmo
+Icon KPSS12
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 120
+Recoil 10
+Damage 2
+Accuracy 18
+LoadIntoGun 6
+NumBullets 10
+BulletSpeed 7.0
+ShootDelay 20
+ShootSound _KPSS12Fire
+ReloadSound _KPSS12Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.KPSS12
+Texture KPSS12_Standard
+
+//Attachment Settings
+AllowAttachments dwLpmRedDotSight dwLpmHoloSight dwLpmTacticalStock dwGenMeleeStock dwGenMeleeStock dwGenHardenedRecoilBolt dwGenBarrelRifling dwGenAdjustedRecoilSpring dwGenReinforcedBarrel 
+
+NumGenericAttachmentSlots 3
+AllowScopeAttachments true
+AllowStockAttachments true
+AllowBarrelAttachments true
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob Wolfstedt_iconDigital WolfstedtCompact_Digital blue 1 gray 1 silver 1
+
+
+//Owner DerpiWolf
+
+Description PMC "Obsidian Dogs". Ammo Type: Pellet Shell, Poison Shell, Incendiary Shell.
+//Show in description
+ShowReloadTime true
+ShowAccuracy true
+ShowDamage true
+ShowRecoil true

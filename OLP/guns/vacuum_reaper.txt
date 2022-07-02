@@ -1,0 +1,43 @@
+Name Vacuum Reaper
+ShortName vacuum_reaper
+//The ammo this gun uses (shortName)
+Ammo vacuum_reaper_battery
+Icon vacuum_reaper
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 20
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Kar98kSniper = 20
+Recoil 3
+//Damage in half hearts
+Damage 28
+//The higher this value, the more the bullets spread
+Accuracy 8
+//Time in ticks between rounds
+ShootDelay 12
+ShootSound vaccum_reaper_shot
+ReloadSound vaccum_reaper_reload
+Mode SemiAuto
+//Bullet speed, default 3.0
+BulletSpeed 1.0
+//Default scope settings. Usually for aiming down sights. In which case, use FOVZoomLevel, not ZoomLevel
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+//Deployable Settings
+Deployable False
+DeployedModel None
+//Attachment Settings
+AllowAllAttachments false
+//List here all the attachments allowed on this gun by shortName and separated by spaces
+AllowAttachments none
+AllowBarrelAttachments false
+AllowScopeAttachments false
+AllowStockAttachments false
+AllowGripAttachments false
+Description Ammo Type : Arc Supressor
+//Show in description
+ShowReloadTime true
+ShowAccuracy true
+ShowDamage true
+ShowRecoil true

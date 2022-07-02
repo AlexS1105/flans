@@ -1,0 +1,43 @@
+Name Melter
+ShortName melter
+//The ammo this gun uses (shortName)
+Ammo melter_heating_core
+Icon melter
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 90
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Kar98kSniper = 20
+Recoil 6
+//Damage in half hearts
+Damage 21
+//The higher this value, the more the bullets spread
+Accuracy 14
+//Time in ticks between rounds
+ShootDelay 20
+ShootSound melter_shot
+ReloadSound melter_reload
+Mode SemiAuto
+//Bullet speed, default 3.0
+BulletSpeed 1.0
+//Default scope settings. Usually for aiming down sights. In which case, use FOVZoomLevel, not ZoomLevel
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+//Deployable Settings
+Deployable False
+DeployedModel None
+//Attachment Settings
+AllowAllAttachments false
+//List here all the attachments allowed on this gun by shortName and separated by spaces
+AllowAttachments none
+AllowBarrelAttachments false
+AllowScopeAttachments false
+AllowStockAttachments false
+AllowGripAttachments false
+Description Ammo Type : Melter
+//Show in description
+ShowReloadTime true
+ShowAccuracy true
+ShowDamage true
+ShowRecoil true

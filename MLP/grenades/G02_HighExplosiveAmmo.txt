@@ -1,0 +1,57 @@
+////Name and icon
+Name 40mm HE Round
+ShortName dw40mmHE
+Icon 40mmHE
+//Colour in Red, Green, Blue, each going up to 255
+Colour 255 255 255
+StackSize 2
+
+////Visuals
+Model dwfirearms.RoundGrenadeDW
+Texture bulletMap
+
+TrailParticles False
+//TrailParticleType smoke
+
+ExplodeParticles 0
+//ExplodeParticleType <particleType>
+SmokeTime 0
+//SmokeParticleType <particleType>
+SpinWhenThrown false
+
+////Throwing
+CanThrow False
+//ThrowDelay 10
+//ThrowSound <sound>
+//DropItemOnThrow <itemID.damage>
+
+////Physics
+DetonateOnImpact True
+Bounciness 0.5
+HitEntityDamage 1
+ThrowSpeed 3
+FallSpeed 1.5
+BreaksGlass true
+PenetratesBlocks false
+HitBoxSize 0.5
+Sticky false
+//BounceSound <sound>
+
+////Detonation conditions
+VehicleProximityTrigger -1.0
+LivingProximityTrigger -1.0
+Fuse 80
+DetonateWhenShot true
+Remote false
+//DespawnTime 0
+PrimeDelay 0
+
+////Detonation
+FireRadius 1.0
+ExplosionRadius 3.0
+ExplosionBreaksBlocks true
+//DropItemOnDetonate <itemID.damage>
+//Detonate Sound <sound>
+
+////Misc
+MeleeDamage 1

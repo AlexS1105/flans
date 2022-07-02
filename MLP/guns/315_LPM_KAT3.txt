@@ -1,0 +1,60 @@
+Name KAT-3
+ShortName dwKat3
+//The ammo this gun uses (shortName)
+Ammo dwKat3Ammo
+Icon KAT3
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 85
+Recoil 3
+Damage 12
+Accuracy 2
+//NumBullets 1
+BulletSpeed 10.0
+ShootDelay 5
+ShootSound _PAKATFire
+ReloadSound _KAT3Reload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.KAT3
+Texture KAT3_Standard
+
+//Attachment Settings
+AllowAttachments dwLpmHoloSight dwLpmAimpointSight dwLpmRedDotSight dwLpmTacticalStock dwGenMeleeStock dwGenHardenedRecoilBolt  dwGenBarrelRifling dwGenReinforcedBarrel dwGenAdjustedRecoilSpring dwGenCleanedReceiver dwGenImprovedReceiver dwGenAutoFire
+
+NumGenericAttachmentSlots 3
+AllowGripAttachments false
+AllowScopeAttachments true
+AllowStockAttachments false
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob SF112_iconContractor SF112_Contractor gray 1 brown 1
+
+
+//Owner DerpiWolf
+
+Description PMC "Obsidian Dogs"
+//Show in description
+ShowReloadTime true
+ShowAccuracy true
+ShowDamage true
+ShowRecoil true

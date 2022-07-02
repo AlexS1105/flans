@@ -1,0 +1,43 @@
+Name Arc Supressor
+ShortName atol_rifle
+//The ammo this gun uses (shortName)
+Ammo atol_ammo_clip
+Icon atol_rifle
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 60
+//The amount of gun recoil, all relative : Sten = 1, Mp40 = 3, Kar98kSniper = 20
+Recoil 3
+//Damage in half hearts
+Damage 5
+//The higher this value, the more the bullets spread
+Accuracy 8
+//Time in ticks between rounds
+ShootDelay 3
+ShootSound atol_rifle_shot
+ReloadSound atol_rifle_reload
+Mode FullAuto
+//Bullet speed, default 3.0
+BulletSpeed 3.0
+//Default scope settings. Usually for aiming down sights. In which case, use FOVZoomLevel, not ZoomLevel
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.25
+//Deployable Settings
+Deployable False
+DeployedModel None
+//Attachment Settings
+AllowAllAttachments false
+//List here all the attachments allowed on this gun by shortName and separated by spaces
+AllowAttachments none
+AllowBarrelAttachments false
+AllowScopeAttachments false
+AllowStockAttachments false
+AllowGripAttachments false
+Description Ammo Type : Atol Rifle
+//Show in description
+ShowReloadTime true
+ShowAccuracy true
+ShowDamage true
+ShowRecoil true
