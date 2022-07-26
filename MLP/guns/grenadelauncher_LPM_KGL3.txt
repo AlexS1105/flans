@@ -58,7 +58,7 @@ AllowGripAttachments false
 
 //Owner DerpiWolf
 
-Description Modern Weapons. Ammo Type: 40mm Frag, 40mm Timed, 40mm Incendiary, 40mm AP, 40mm Gas.
+Description Modern Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

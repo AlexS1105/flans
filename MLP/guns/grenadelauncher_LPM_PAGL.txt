@@ -55,7 +55,7 @@ AllowGripAttachments false
 
 //Owner DerpiWolf
 
-Description Modern Weapons. Ammo Type: 40mm Smoke, 40mm Gas.
+Description Modern Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

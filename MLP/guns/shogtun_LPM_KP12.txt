@@ -50,7 +50,7 @@ AllowGripAttachments false
 
 //Owner DerpiWolf
 
-Description Modern Weapons. Ammo Type: Pellet Shell, Poison Shell, Incendiary Shell.
+Description Modern Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

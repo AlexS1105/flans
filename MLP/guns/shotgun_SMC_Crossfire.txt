@@ -50,7 +50,7 @@ AllowGripAttachments false
 
 //Owner DerpiWolf
 
-Description Cyber Weapons. Ammo Type: Pellet Shell, HE Shell, Shock Shell, AP Shell.
+Description Cyber Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

@@ -56,7 +56,7 @@ AllowScopeAttachments false
 
 //Owner DerpiWolf
 
-Description Steam Weapons. Ammo Type: 40mm Frag, 40mm Smoke, 40mm Incendiary, 40mm Gas, 40mm HE.
+Description Steam Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

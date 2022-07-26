@@ -61,7 +61,7 @@ AllowScopeAttachments false
 
 //Owner DerpiWolf
 
-Description Cyber Weapons. Ammo Type: Skyswatter MobTrack Rocket.
+Description Cyber Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false
