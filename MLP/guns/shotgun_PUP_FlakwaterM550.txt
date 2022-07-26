@@ -1,0 +1,58 @@
+Name Flakwater M550
+ShortName dwFlakwater
+//The ammo this gun uses (shortName)
+Ammo dwShotgunPelletAmmo
+Icon FlakwaterM550
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 30
+Recoil 10
+Damage 2
+Accuracy 18
+LoadIntoGun 5
+NumBullets 6
+BulletSpeed 7.0
+ShootDelay 8
+ShootSound _RoselupHighwindFire
+ReloadSound _CrossfireReload
+Mode SemiAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.FlakwaterM550
+Texture FlakwaterM550_Urban
+
+AllowAttachments none
+AllowBarrelAttachments false
+AllowScopeAttachments false
+AllowStockAttachments false
+AllowGripAttachments false
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob Wolfstedt_iconDigital WolfstedtCompact_Digital blue 1 gray 1 silver 1
+
+
+//Owner DerpiWolf
+
+Description Modern Weapons. Ammo Type: Pellet Shell, AP Shell, Tungsten Shell.
+//Show in description
+ShowReloadTime false
+ShowAccuracy false
+ShowDamage true
+ShowRecoil false

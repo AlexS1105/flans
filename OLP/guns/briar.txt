@@ -37,7 +37,7 @@ AllowStockAttachments false
 AllowGripAttachments false
 Description Ammo Type : Briar
 //Show in description
-ShowReloadTime true
-ShowAccuracy true
+ShowReloadTime false
+ShowAccuracy false
 ShowDamage true
-ShowRecoil true
+ShowRecoil false

@@ -1,0 +1,61 @@
+Name Mark 47
+ShortName dwMk47
+//The ammo this gun uses (shortName)
+Ammo dwSniperSteamAmmo
+Icon MK47
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 80
+Recoil 4
+Damage 11
+Accuracy 2
+//NumBullets 1
+BulletSpeed 10.0
+ShootDelay 6
+ShootSound _HVFPeforatorFire
+ReloadSound _HVFPeforatorReload
+Mode SemiAuto
+Scope HVFscope
+ZoomLevel 5.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.MK47
+Texture MK47_Steam
+
+//Attachment Settings
+AllowAttachments dwSightDetachment dwAbtSharedSuppressor dwAbtSharedMuzzleBrake dwAbtHoloSight dwAbtAmbirconSight dwAbtReflexSight dwAbtApertureSight dwGenMeleeStock dwGenHardenedRecoilBolt  dwGenBarrelRifling dwGenReinforcedBarrel dwGenAdjustedRecoilSpring dwGenCleanedReceiver dwGenImprovedReceiver
+
+NumGenericAttachmentSlots 4
+AllowScopeAttachments true
+AllowGripAttachments false
+AllowBarrelAttachments true
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob HVFPeforator_iconATDigital HVFPeforator_ATDigital gray 1 silver 1 black 1
+//Paintjob HVFPeforator_iconAJStryker HVFPeforator_AJStryker silver 1 black 1
+
+
+//Owner DerpiWolf
+
+Description Steam Weapons
+//Show in description
+ShowReloadTime false
+ShowAccuracy false
+ShowDamage true
+ShowRecoil false

@@ -1,0 +1,69 @@
+Name Skyswatter SS
+ShortName dwSkyswatterSS
+//The ammo this gun uses (shortName)
+Ammo dwRocketSkyswatterTrackAmmo
+Ammo dwRocketSkyswatterAmmo
+Icon SkyswatterSS
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 75
+Recoil 20
+Damage 15
+Accuracy 8
+//NumBullets 1
+LoadIntoGun 1
+BulletSpeed 4.0
+ShootDelay 5
+ShootSound _SkyswatterFire
+ReloadSound _SkyswatterReload
+Mode SemiAuto
+Scope skyswatterOverlay
+ZoomLevel 2.0
+FOV ZoomLevel 1.3
+Distort Sound False
+Deployable False
+DeployedModel None
+
+MoveSpeedModifier 0.8
+
+//Information
+Description Cyber Weapons
+ShowDamage true
+ShowReloadTime false
+
+//Lower scaled model
+ModelScale 0.25
+//LoadIntoGun 1
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.SkyswatterSS
+Texture SkyswatterSS_Standard
+
+//Attachment Settings
+AllowAttachments dwGenFirearmTraining dwGenCleanedReceiver dwGenImprovedReceiver dwGenAugmentedReceiver 
+
+NumGenericAttachmentSlots 2
+AllowScopeAttachments false
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob Wolfstedt_iconDigital WolfstedtCompact_Digital blue 1 gray 1 silver 1
+
+
+//Owner DerpiWolf
+
+Description Cyber Weapons. Ammo Type: Skyswatter Rocket, Skyswatter MobTrack Rocket.
+//Show in description
+ShowReloadTime false
+ShowAccuracy false
+ShowDamage true
+ShowRecoil false

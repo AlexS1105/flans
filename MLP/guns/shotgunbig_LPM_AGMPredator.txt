@@ -1,0 +1,59 @@
+Name AGM Predator
+ShortName dwAgmPredator
+//The ammo this gun uses (shortName)
+Ammo dwShotgunBigAmmo
+Icon AGMPredator
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 110
+Recoil 8
+Damage 3
+Accuracy 22
+//LoadIntoGun 1
+NumBullets 6
+BulletSpeed 7.0
+ShootDelay 4
+ShootSound _Breacher870Fire
+ReloadSound _RoselupHighwindReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.AGMPredator
+Texture AGMPredator_Standard
+
+//Attachment Settings
+AllowAttachments dwLpmTacticalStock dwGenMeleeStock dwGenHardenedRecoilBolt dwGenBarrelRifling dwGenAdjustedRecoilSpring dwGenReinforcedBarrel 
+
+NumGenericAttachmentSlots 3
+AllowScopeAttachments false
+AllowStockAttachments true
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+//Paintjob Wolfstedt_iconDigital WolfstedtCompact_Digital blue 1 gray 1 silver 1
+
+
+//Owner DerpiWolf
+
+Description Modern Weapons
+//Show in description
+ShowReloadTime false
+ShowAccuracy false
+ShowDamage true
+ShowRecoil false

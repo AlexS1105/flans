@@ -1,0 +1,57 @@
+Name PAR-38
+ShortName dwPar38
+//The ammo this gun uses (shortName)
+Ammo dwAssaultModernAmmo
+Icon PAR38
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 70
+Recoil 6
+Damage 6
+Accuracy 3
+//NumBullets 1
+BulletSpeed 12.0
+ShootDelay 3
+ShootSound _SF112Fire
+ReloadSound _SF112Reload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.PAR38
+Texture PAR38_Standard
+
+//Attachment Settings
+AllowAttachments dwLpmAssaultGrip dwLpmAngledGrip dwLpmAssaultLight dwLpmHoloSight dwLpmAimpointSight dwLpmRedDotSight dwLpmWoodenStock dwLpmTacticalStock dwGenMeleeStock dwGenBarrelRifling dwGenReinforcedBarrel dwGenCleanedReceiver dwGenImprovedReceiver dwGenHardenedRecoilBolt 
+
+NumGenericAttachmentSlots 4
+AllowGripAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+
+//Owner DerpiWolf
+Description Modern Weapons
+//Show in description
+ShowReloadTime false
+ShowAccuracy false
+ShowDamage true
+ShowRecoil false

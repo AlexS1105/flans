@@ -1,0 +1,57 @@
+Name PAR-60
+ShortName dwPar60
+//The ammo this gun uses (shortName)
+Ammo dwLightMachinegunModernAmmo
+Icon PAR60
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+
+//Reload time in ticks, 1/20ths of a second
+ReloadTime 90
+Recoil 4
+Damage 5
+Accuracy 5
+//NumBullets 1
+BulletSpeed 12.0
+ShootDelay 3
+ShootSound _CRM15Fire
+ReloadSound _SF370BReload
+Mode FullAuto
+Scope None
+ZoomLevel 1.0
+FOV ZoomLevel 1.25
+Distort Sound False
+Deployable False
+DeployedModel None
+ModelScale 0.2
+//LoadIntoGun 1
+
+//Dual Wield Toggle
+OneHanded False
+
+//Model settings
+Model dwfirearms.PAR60
+Texture PAR60_Standard
+
+//Attachment Settings
+AllowAttachments dwLpmAssaultGrip dwLpmAngledGrip dwLpmAssaultLight dwLpmAimpointSight dwLpmRedDotSight dwLpmWoodenStock dwLpmTacticalStock dwGenMeleeStock dwGenHardenedRecoilBolt  dwGenBarrelRifling dwGenReinforcedBarrel dwGenCleanedReceiver dwGenImprovedReceiver dwGenFirearmTraining 
+
+NumGenericAttachmentSlots 3
+AllowGripAttachments true
+AllowScopeAttachments true
+AllowStockAttachments true
+
+//PaintJob Settings
+//Format is "Paintjob iconName textureName requiredDyeAmount requiredDyeColour" Multiple colours may be listed in order, seperated by a space.
+
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+
+
+
+//Owner DerpiWolf
+Description Modern Weapons
+//Show in description
+ShowReloadTime false
+ShowAccuracy false
+ShowDamage true
+ShowRecoil false
