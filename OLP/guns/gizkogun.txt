@@ -1,7 +1,7 @@
 Name Gizkogun
 ShortName gizkogun
 //The ammo this gun uses (shortName)
-Ammo gizkogun_ammo_clip
+Ammo dwAssaultCyberAmmo
 Icon gizkogun
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Gizkogun
+Description Cyber Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

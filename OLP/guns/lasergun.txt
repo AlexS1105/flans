@@ -1,7 +1,7 @@
 Name Lasergun
 ShortName lasergun
 //The ammo this gun uses (shortName)
-Ammo lasergun_battery_clip
+Ammo dwMachinegunCyberAmmo
 Icon lasergun
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Lasergun
+Description Cyber Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

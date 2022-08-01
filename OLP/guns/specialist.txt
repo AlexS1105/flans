@@ -1,7 +1,7 @@
 Name Specialist
 ShortName specialist
 //The ammo this gun uses (shortName)
-Ammo specialist_ammo_clip
+Ammo dwSubmachineCyberAmmo
 Icon specialist
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Specialist
+Description Cyber Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

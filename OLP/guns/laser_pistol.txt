@@ -1,7 +1,7 @@
 Name Laser Pistol
 ShortName laser_pistol
 //The ammo this gun uses (shortName)
-Ammo laser_pistol_battery
+Ammo dwPistolCyberAmmo
 Icon laser_pistol
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Laser Pistol
+Description Cyber Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

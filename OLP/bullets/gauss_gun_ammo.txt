@@ -30,4 +30,3 @@ HitSound bullet
 Penetrates True
 SmokeTrail True
 //Description - note the ammo type
-Description Ammo Type : Gauss Gun Rod

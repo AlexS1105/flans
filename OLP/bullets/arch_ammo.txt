@@ -30,4 +30,3 @@ HitSound bullet
 Penetrates True
 SmokeTrail False
 //Description - note the ammo type
-Description Ammo Type : Arc Supressor

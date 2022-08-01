@@ -1,7 +1,7 @@
 Name Supressor
 ShortName supressor
 //The ammo this gun uses (shortName)
-Ammo supressor_ammo_clip
+Ammo dwRifleCyberAmmo
 Icon supressor
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Arc Supressor
+Description Modern Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

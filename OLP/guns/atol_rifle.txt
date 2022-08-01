@@ -1,7 +1,7 @@
 Name Arc Supressor
 ShortName atol_rifle
 //The ammo this gun uses (shortName)
-Ammo atol_ammo_clip
+Ammo dwDmrCyberAmmo
 Icon atol_rifle
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Atol Rifle
+Description Cyber Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

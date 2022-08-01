@@ -1,7 +1,7 @@
 Name Hand Cannon
 ShortName hand_cannon
 //The ammo this gun uses (shortName)
-Ammo hand_cannon_ammo
+Ammo dwRifleModernAmmo
 Icon hand_cannon
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Hand Cannon
+Description Modern Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

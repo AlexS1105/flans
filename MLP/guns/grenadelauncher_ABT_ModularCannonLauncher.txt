@@ -2,9 +2,6 @@ Name Mod. Cannon Launcher
 ShortName dwModCannonLauncher
 //The ammo this gun uses (shortName)
 Ammo dw40mmFrag
-Ammo dw40mmHE
-Ammo dw40mmIncendiary
-Ammo dw40mmGas
 Ammo dw40mmSmoke
 Icon ModCannon
 //Colour in Red, Green, Blue, each going up to 255.

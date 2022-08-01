@@ -30,4 +30,3 @@ HitSound bullet
 Penetrates False
 SmokeTrail False
 //Description - note the ammo type
-Description Ammo Type : Pocket Dissonator Battery

@@ -1,7 +1,7 @@
 Name Goplon Repeater
 ShortName goplon_repeater
 //The ammo this gun uses (shortName)
-Ammo goplon_repeater_clip
+Ammo dwMachinegunModernAmmo
 Icon goplon_repeater
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Goplon Repeater
+Description Modern Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

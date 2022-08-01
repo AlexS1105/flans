@@ -1,7 +1,7 @@
 Name Pocket Defender
 ShortName pocket_defender
 //The ammo this gun uses (shortName)
-Ammo pocket_defender_battery
+Ammo dwDmrCyberAmmo
 Icon pocket_defender
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Pocket Defender
+Description Cyber Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

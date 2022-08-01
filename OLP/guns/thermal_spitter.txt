@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Thermal SpitterThermal Spitter
+Description Cyber Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

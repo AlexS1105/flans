@@ -1,7 +1,7 @@
 Name PAGL
 ShortName dwPagl
 //The ammo this gun uses (shortName)
-Ammo dw40mmGas
+Ammo dw40mmFrag
 Ammo dw40mmSmoke
 Icon PAGL
 //Colour in Red, Green, Blue, each going up to 255.

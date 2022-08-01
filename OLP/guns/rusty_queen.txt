@@ -1,7 +1,7 @@
 Name Rusty Queen
 ShortName rusty_queen
 //The ammo this gun uses (shortName)
-Ammo rusty_queen_ammo_clip
+Ammo dwAssaultModernAmmo
 Icon rusty_queen
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Rusty Queen
+Description Modern Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false

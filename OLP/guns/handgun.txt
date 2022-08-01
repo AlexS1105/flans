@@ -1,7 +1,7 @@
 Name Handgun
 ShortName handgun
 //The ammo this gun uses (shortName)
-Ammo handgun_ammo_clip
+Ammo dwPistolModernAmmo
 Icon handgun
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
@@ -35,7 +35,7 @@ AllowBarrelAttachments false
 AllowScopeAttachments false
 AllowStockAttachments false
 AllowGripAttachments false
-Description Ammo Type : Handgun
+Description Modern Weapons
 //Show in description
 ShowReloadTime false
 ShowAccuracy false
