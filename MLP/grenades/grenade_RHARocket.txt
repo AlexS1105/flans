@@ -47,7 +47,3 @@ ExplosionBreaksBlocks true
 //Detonate Sound <sound>
 ////Misc
 MeleeDamage 2
-
-//Recipe
-RecipeOutput 1
-ShapelessRecipe dwLk103Ammo dwGrenadePin

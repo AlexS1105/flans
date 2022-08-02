@@ -2,6 +2,7 @@ Name X61 Airdropper
 ShortName dwAirdropper
 //The ammo this gun uses (shortName)
 Ammo dwSniperCyberAmmo
+Ammo dwSniperCyberAmmo_upgraded
 Icon Airdropper
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

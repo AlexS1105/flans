@@ -2,6 +2,7 @@ Name SkyComm G80
 ShortName dwSkyComm
 //The ammo this gun uses (shortName)
 Ammo dwDmrCyberAmmo
+Ammo dwDmrCyberAmmo_upgraded
 Icon SkyCommG80
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

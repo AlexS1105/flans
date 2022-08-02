@@ -2,6 +2,7 @@ Name SF-94
 ShortName dwSf94
 //The ammo this gun uses (shortName)
 Ammo dwAssaultModernAmmo
+Ammo dwAssaultModernAmmo_upgraded
 Icon SF94
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

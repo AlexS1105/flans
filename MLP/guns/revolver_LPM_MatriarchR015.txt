@@ -2,6 +2,7 @@ Name Matriarch R015
 ShortName dwMatriarchR015
 //The ammo this gun uses (shortName)
 Ammo dwRevolverModernRounds
+Ammo dwRevolverModernRounds_upgraded
 Icon MatriarchR015
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

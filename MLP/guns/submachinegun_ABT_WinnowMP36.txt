@@ -2,6 +2,7 @@ Name Winnow MP36
 ShortName dwWinnowMp
 //The ammo this gun uses (shortName)
 Ammo dwSubmachineSteamAmmo
+Ammo dwSubmachineSteamAmmo_upgraded
 Icon WinnowMP
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

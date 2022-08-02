@@ -2,6 +2,7 @@ Name MFP-5C
 ShortName dwMfp5Compact
 //The ammo this gun uses (shortName)
 Ammo dwSubmachineModernAmmo
+Ammo dwSubmachineModernAmmo_upgraded
 Icon MFP5Compact
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

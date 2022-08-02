@@ -2,7 +2,6 @@ Name Stumbreon Steamer
 ShortName dwStumbreonSteamer
 //The ammo this gun uses (shortName)
 Ammo dwStumbreonSteamerAmmo
-Ammo dwStumbreonSteamerGasAmmo
 Icon StumbreonSteamer
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

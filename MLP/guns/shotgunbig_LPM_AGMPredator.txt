@@ -2,6 +2,7 @@ Name AGM Predator
 ShortName dwAgmPredator
 //The ammo this gun uses (shortName)
 Ammo dwShotgunBigAmmo
+Ammo dwShotgunBigAmmo_upgraded
 Icon AGMPredator
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

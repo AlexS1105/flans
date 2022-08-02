@@ -3,6 +3,7 @@ Name Makoteptn MP
 ShortName dwMapmp
 //The ammo this gun uses (shortName)
 Ammo dwSubmachineModernAmmo
+Ammo dwSubmachineModernAmmo_upgraded
 Icon MakoteptnMP
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

@@ -2,6 +2,7 @@ Name Atol Smasher
 ShortName atol_smasher
 //The ammo this gun uses (shortName)
 Ammo dwDmrCyberAmmo
+Ammo dwDmrCyberAmmo_upgraded
 Icon atol_smasher
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

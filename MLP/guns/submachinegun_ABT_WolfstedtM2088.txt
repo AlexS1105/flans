@@ -2,6 +2,7 @@ Name WolfStedt M2088
 ShortName dwWolfstedtM2088
 //The ammo this gun uses (shortName)
 Ammo dwSubmachineSteamAmmo
+Ammo dwSubmachineSteamAmmo_upgraded
 Icon WolfstedtM2088
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

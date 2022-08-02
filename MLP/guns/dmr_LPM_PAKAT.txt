@@ -2,6 +2,7 @@ Name PA-KAT
 ShortName dwPaKat
 //The ammo this gun uses (shortName)
 Ammo dwDmrModernAmmo
+Ammo dwDmrModernAmmo_upgraded
 Icon PAKAT
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

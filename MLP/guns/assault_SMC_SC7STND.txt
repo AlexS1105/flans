@@ -2,6 +2,7 @@ Name SC7-STND
 ShortName dwSc7Stnd
 //The ammo this gun uses (shortName)
 Ammo dwAssaultCyberAmmo
+Ammo dwAssaultCyberAmmo_upgraded
 Icon SC7STND
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

@@ -2,6 +2,7 @@ Name AMB SteamRifle MK.II
 ShortName dwAmbirconSteamRifle2
 //The ammo this gun uses (shortName)
 Ammo dwDmrSteamAmmo
+Ammo dwDmrSteamAmmo_upgraded
 Icon ASRMK2
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

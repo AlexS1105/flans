@@ -2,6 +2,7 @@ Name PUP 7.62
 ShortName dwPup762
 //The ammo this gun uses (shortName)
 Ammo dwSniperModernAmmo
+Ammo dwSniperModernAmmo_upgraded
 Icon PUP762
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

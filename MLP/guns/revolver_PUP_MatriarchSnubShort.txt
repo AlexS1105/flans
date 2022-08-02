@@ -2,6 +2,7 @@ Name Matriarch Short
 ShortName dwMatriarchSnubShort
 //The ammo this gun uses (shortName)
 Ammo dwRevolverModernRounds
+Ammo dwRevolverModernRounds_upgraded
 Icon MatriarchSnubShort
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

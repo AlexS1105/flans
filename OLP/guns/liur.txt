@@ -2,6 +2,7 @@ Name Liur
 ShortName liur
 //The ammo this gun uses (shortName)
 Ammo dwRevolverCyberRounds
+Ammo dwRevolverCyberRounds_upgraded
 Icon liur
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

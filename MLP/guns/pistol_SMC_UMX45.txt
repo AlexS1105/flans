@@ -2,6 +2,7 @@ Name UMX .45
 ShortName dwUmx45
 //The ammo this gun uses (shortName)
 Ammo dwPistolCyberAmmo
+Ammo dwPistolCyberAmmo_upgraded
 Icon UMX45
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

@@ -2,6 +2,7 @@ Name GS-5
 ShortName dwGs5
 //The ammo this gun uses (shortName)
 Ammo dwPistolCyberAmmo
+Ammo dwPistolCyberAmmo_upgraded
 Icon GS5
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

@@ -2,6 +2,7 @@ Name SC7-SPEC
 ShortName dwSc7
 //The ammo this gun uses (shortName)
 Ammo dwShotgunBigAmmo
+Ammo dwShotgunBigAmmo_upgraded
 Icon SC7SPEC
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

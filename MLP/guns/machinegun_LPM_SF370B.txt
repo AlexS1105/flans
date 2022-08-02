@@ -2,6 +2,7 @@ Name SF-370B
 ShortName dwSf370b
 //The ammo this gun uses (shortName)
 Ammo dwMachinegunModernAmmo
+Ammo dwMachinegunModernAmmo_upgraded
 Icon SF370B
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

@@ -2,6 +2,7 @@ Name Clockwing .67
 ShortName dwClockwing
 //The ammo this gun uses (shortName)
 Ammo dwSniperSteamAmmo
+Ammo dwSniperSteamAmmo_upgraded
 Icon Clockwing
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

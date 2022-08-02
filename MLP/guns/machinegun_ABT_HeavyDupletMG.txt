@@ -2,6 +2,7 @@ Name Heavy Duplet MG
 ShortName dwHeavyDupletMG
 //The ammo this gun uses (shortName)
 Ammo dwMachinegunSteamAmmo
+Ammo dwMachinegunSteamAmmo_upgraded
 Icon HeavyDupletMG
 
 //Colour in Red, Green, Blue, each going up to 255.

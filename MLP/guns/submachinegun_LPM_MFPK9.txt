@@ -2,6 +2,7 @@ Name MFP-K9
 ShortName dwMfpK9
 //The ammo this gun uses (shortName)
 Ammo dwSubmachineModernAmmo
+Ammo dwSubmachineModernAmmo_upgraded
 Icon MFPK9
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

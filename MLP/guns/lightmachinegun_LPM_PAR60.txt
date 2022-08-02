@@ -2,6 +2,7 @@ Name PAR-60
 ShortName dwPar60
 //The ammo this gun uses (shortName)
 Ammo dwLightMachinegunModernAmmo
+Ammo dwLightMachinegunModernAmmo_upgraded
 Icon PAR60
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

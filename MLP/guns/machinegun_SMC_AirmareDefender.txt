@@ -2,6 +2,7 @@ Name Airmare Def.
 ShortName dwAirmare
 //The ammo this gun uses (shortName)
 Ammo dwMachinegunCyberAmmo
+Ammo dwMachinegunCyberAmmo_upgraded
 Icon AirmareDefender
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

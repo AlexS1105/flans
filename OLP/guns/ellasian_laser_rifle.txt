@@ -2,6 +2,7 @@ Name Laser Rifle
 ShortName laser_rifle
 //The ammo this gun uses (shortName)
 Ammo dwSniperCyberAmmo
+Ammo dwSniperCyberAmmo_upgraded
 Icon ellasian_laser_rifle
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

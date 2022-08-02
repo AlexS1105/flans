@@ -2,6 +2,7 @@ Name Winnow BP
 ShortName dwWinnowBp
 //The ammo this gun uses (shortName)
 Ammo dwPistolSteamAmmo
+Ammo dwPistolSteamAmmo_upgraded
 Icon WinnowBP
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

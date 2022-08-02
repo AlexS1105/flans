@@ -2,6 +2,7 @@ Name Dzky .103
 ShortName dwDzky103
 //The ammo this gun uses (shortName)
 Ammo dwSniperModernAmmo
+Ammo dwSniperModernAmmo_upgraded
 Icon Dzky103
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

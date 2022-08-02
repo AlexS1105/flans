@@ -2,6 +2,7 @@ Name Specialist
 ShortName specialist
 //The ammo this gun uses (shortName)
 Ammo dwSubmachineCyberAmmo
+Ammo dwSubmachineCyberAmmo_upgraded
 Icon specialist
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

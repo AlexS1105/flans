@@ -2,6 +2,7 @@ Name Overwatch
 ShortName dwOverwatch
 //The ammo this gun uses (shortName)
 Ammo dwRevolverSteamRounds
+Ammo dwRevolverSteamRounds_upgraded
 Icon Overwatch
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

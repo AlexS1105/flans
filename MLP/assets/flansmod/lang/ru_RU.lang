@@ -175,5 +175,37 @@ item.dwRocketLk103.name= Современная ракета
 item.dw40mmFrag.name= Осколочный снаряд для гранатомёта
 item.dw40mmSmoke.name= Дымовой снаряд для гранатомёта
 
+// Upgraded Ammo ------------------------------------------------------------
+item.dwShotgunPelletAmmo_upgraded.name= Улучшенный патрон для дробовика
+item.dwShotgunBigAmmo_upgraded.name= Улучшенные патроны для тяжёлого дробовика
+item.dwAssaultCyberAmmo_upgraded.name= Улучшенный магазин для высокотехнологичной штурмовой винтовки
+item.dwAssaultModernAmmo_upgraded.name= Улучшенный магазин для современной штурмовой винтовки
+item.dwAssaultSteamAmmo_upgraded.name= Улучшенный магазин для механической штурмовой винтовки
+item.dwDmrCyberAmmo_upgraded.name= Улучшенный магазин для высокотехнологичной пехотной винтовки
+item.dwDmrModernAmmo_upgraded.name= Улучшенный магазин для современной пехотной винтовки
+item.dwDmrSteamAmmo_upgraded.name= Улучшенный магазин для механической пехотной винтовки
+item.dwLightMachinegunSteamAmmo_upgraded.name= Улучшенные боеприпасы для механического лёгкого пулемёта
+item.dwLightMachinegunCyberAmmo_upgraded.name= Улучшенные боеприпасы для высокотехнологичного лёгкого пулемёта
+item.dwLightMachinegunModernAmmo_upgraded.name= Улучшенные боеприпасы для современного лёгкого пулемёта
+item.dwMachinegunCyberAmmo_upgraded.name= Улучшенные боеприпасы для высокотехнологичного пулемёта
+item.dwMachinegunModernAmmo_upgraded.name= Улучшенные боеприпасы для современного пулемёта
+item.dwMachinegunSteamAmmo_upgraded.name= Улучшенные боеприпасы для механического пулемёта
+item.dwPistolCyberAmmo_upgraded.name= Улучшенный магазин для высокотехнологичного пистолета
+item.dwPistolModernAmmo_upgraded.name= Улучшенный магазин для современного пистолета
+item.dwPistolSteamAmmo_upgraded.name= Улучшенный магазин для механического пистолета
+item.dwRevolverCyberRounds_upgraded.name= Улучшенный спидлодер для высокотехнологичного револьвера
+item.dwRevolverModernRounds_upgraded.name= Улучшенный спидлодер для современного револьвера
+item.dwRevolverSteamRounds_upgraded.name= Улучшенный спидлодер для механического револьвера
+item.dwRifleCyberAmmo_upgraded.name= Улучшенные патроны для высокотехнологичной винтовки
+item.dwRifleModernAmmo_upgraded.name= Улучшенные патроны для современной винтовки
+item.dwRifleSteamAmmo_upgraded.name= Улучшенные патроны для механической винтовки
+item.dwSniperCyberAmmo_upgraded.name= Улучшенный магазин для высокотехнологичной снайперской винтовки
+item.dwSniperModernAmmo_upgraded.name= Улучшенный магазин для современной снайперской винтовки
+item.dwSniperSteamAmmo_upgraded.name= Улучшенный магазин для механической снайперской винтовки
+item.dwSubmachineCyberAmmo_upgraded.name= Улучшенный магазин для высокотехнологичного пистолета-пулемёта
+item.dwSubmachineModernAmmo_upgraded.name= Улучшенный магазин для современного пистолета-пулемёта
+item.dwSubmachineSteamAmmo_upgraded.name= Улучшенный магазин для механического пистолета-пулемёта
+item.dw40mmFrag_upgraded.name= Улучшенный осколочный снаряд для гранатомёта
+
 // Ortega Military ------------------------------------------------------------
 tile.gunpowderblock.name= Gunpowder Block

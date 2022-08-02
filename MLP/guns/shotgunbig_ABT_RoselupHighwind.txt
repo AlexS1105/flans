@@ -2,6 +2,7 @@ Name Roselup Highwind
 ShortName dwRoselup
 //The ammo this gun uses (shortName)
 Ammo dwShotgunBigAmmo
+Ammo dwShotgunBigAmmo_upgraded
 Icon RoselupHighwind
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

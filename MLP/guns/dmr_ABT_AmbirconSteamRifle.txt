@@ -2,6 +2,7 @@ Name AMB SteamRifle
 ShortName dwAmbirconSteamRifle
 //The ammo this gun uses (shortName)
 Ammo dwDmrSteamAmmo
+Ammo dwDmrSteamAmmo_upgraded
 Icon AmbirconSteamRifle
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

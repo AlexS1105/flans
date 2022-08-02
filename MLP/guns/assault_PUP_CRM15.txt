@@ -2,6 +2,7 @@ Name CRM-15
 ShortName dwCrm15
 //The ammo this gun uses (shortName)
 Ammo dwAssaultModernAmmo
+Ammo dwAssaultModernAmmo_upgraded
 Icon CRM15
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

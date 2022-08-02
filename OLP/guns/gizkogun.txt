@@ -2,6 +2,7 @@ Name Gizkogun
 ShortName gizkogun
 //The ammo this gun uses (shortName)
 Ammo dwAssaultCyberAmmo
+Ammo dwAssaultCyberAmmo_upgraded
 Icon gizkogun
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

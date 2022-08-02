@@ -2,6 +2,7 @@ Name PUP .227
 ShortName dwPup227
 //The ammo this gun uses (shortName)
 Ammo dwPistolModernAmmo
+Ammo dwPistolModernAmmo_upgraded
 Icon PUP227
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

@@ -2,6 +2,7 @@ Name SF Orel
 ShortName dwSfOrel
 //The ammo this gun uses (shortName)
 Ammo dwRifleModernAmmo
+Ammo dwRifleModernAmmo_upgraded
 Icon SFOrel
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

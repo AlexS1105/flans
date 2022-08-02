@@ -2,6 +2,7 @@ Name Luabella Carbine
 ShortName dwLuabella
 //The ammo this gun uses (shortName)
 Ammo dwDmrModernAmmo
+Ammo dwDmrModernAmmo_upgraded
 Icon LuabellaCarbine
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

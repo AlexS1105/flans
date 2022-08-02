@@ -2,6 +2,7 @@ Name Clandor
 ShortName clandor
 //The ammo this gun uses (shortName)
 Ammo dwLightMachinegunCyberAmmo
+Ammo dwLightMachinegunCyberAmmo_upgraded
 Icon clandor
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

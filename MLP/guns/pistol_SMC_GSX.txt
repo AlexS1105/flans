@@ -2,6 +2,7 @@ Name GSX
 ShortName dwGsx
 //The ammo this gun uses (shortName)
 Ammo dwPistolCyberAmmo
+Ammo dwPistolCyberAmmo_upgraded
 Icon GSX
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

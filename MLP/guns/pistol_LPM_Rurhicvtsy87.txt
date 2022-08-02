@@ -2,6 +2,7 @@ Name Rurhicvtsy '87
 ShortName dwRurhicvtsy87
 //The ammo this gun uses (shortName)
 Ammo dwPistolModernAmmo
+Ammo dwPistolModernAmmo_upgraded
 Icon Rurhicvtsy87
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

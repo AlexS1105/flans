@@ -2,6 +2,7 @@ Name Matriarch SS
 ShortName dwMatriarchScatter
 //The ammo this gun uses (shortName)
 Ammo dwShotgunPelletAmmo
+Ammo dwShotgunPelletAmmo_upgraded
 Icon MatriarchScattershot
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

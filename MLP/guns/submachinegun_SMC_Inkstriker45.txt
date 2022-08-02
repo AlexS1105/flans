@@ -2,6 +2,7 @@ Name Inkstriker 45
 ShortName dwInkstriker45
 //The ammo this gun uses (shortName)
 Ammo dwSubmachineCyberAmmo
+Ammo dwSubmachineCyberAmmo_upgraded
 Icon Inkstriker45
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

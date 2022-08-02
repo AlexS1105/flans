@@ -2,6 +2,7 @@ Name Laser Pistol
 ShortName laser_pistol
 //The ammo this gun uses (shortName)
 Ammo dwPistolCyberAmmo
+Ammo dwPistolCyberAmmo_upgraded
 Icon laser_pistol
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

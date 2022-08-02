@@ -2,6 +2,7 @@ Name SF-2012 Petyr
 ShortName dwSf2012p
 //The ammo this gun uses (shortName)
 Ammo dwShotgunBigAmmo
+Ammo dwShotgunBigAmmo_upgraded
 Icon SF2012Petyr
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

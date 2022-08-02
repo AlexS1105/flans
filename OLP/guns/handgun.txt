@@ -2,6 +2,7 @@ Name Handgun
 ShortName handgun
 //The ammo this gun uses (shortName)
 Ammo dwPistolModernAmmo
+Ammo dwPistolModernAmmo_upgraded
 Icon handgun
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

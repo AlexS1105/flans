@@ -2,6 +2,7 @@ Name AT51-SP
 ShortName dwAt51sp
 //The ammo this gun uses (shortName)
 Ammo dwSubmachineSteamAmmo
+Ammo dwSubmachineSteamAmmo_upgraded
 Icon at51sp_smg
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

@@ -2,6 +2,7 @@ Name Cinderfire Rifle
 ShortName dwCinderfire
 //The ammo this gun uses (shortName)
 Ammo dwRifleSteamAmmo
+Ammo dwRifleSteamAmmo_upgraded
 Icon CinderfireRifle
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

@@ -2,6 +2,7 @@ Name Goplon Repeater
 ShortName goplon_repeater
 //The ammo this gun uses (shortName)
 Ammo dwMachinegunModernAmmo
+Ammo dwMachinegunModernAmmo_upgraded
 Icon goplon_repeater
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

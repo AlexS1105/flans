@@ -2,6 +2,7 @@ Name Stumbreon SV
 ShortName dwStumbreonSV
 //The ammo this gun uses (shortName)
 Ammo dwAssaultSteamAmmo
+Ammo dwAssaultSteamAmmo_upgraded
 Icon StumbreonSV
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

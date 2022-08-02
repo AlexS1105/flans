@@ -2,6 +2,7 @@ Name AutoRifle 2097
 ShortName dwAutoRifle2097
 //The ammo this gun uses (shortName)
 Ammo dwLightMachinegunSteamAmmo
+Ammo dwLightMachinegunSteamAmmo_upgraded
 Icon AutoRifle2097
 
 //Colour in Red, Green, Blue, each going up to 255.

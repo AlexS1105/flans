@@ -2,6 +2,7 @@ Name Ironhoof M40
 ShortName dwIronhoofM40
 //The ammo this gun uses (shortName)
 Ammo dwMachinegunCyberAmmo
+Ammo dwMachinegunCyberAmmo_upgraded
 Icon IronhoofM40
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

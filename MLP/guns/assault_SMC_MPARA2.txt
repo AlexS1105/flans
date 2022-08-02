@@ -2,6 +2,7 @@ Name MPAR-A2
 ShortName dwMparA2
 //The ammo this gun uses (shortName)
 Ammo dwAssaultCyberAmmo
+Ammo dwAssaultCyberAmmo_upgraded
 Icon MPARA2
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255

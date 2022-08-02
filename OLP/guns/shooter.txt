@@ -2,6 +2,7 @@ Name Shooter
 ShortName shooter
 //The ammo this gun uses (shortName)
 Ammo dwShotgunPelletAmmo
+Ammo dwShotgunPelletAmmo_upgraded
 Icon shooter
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
